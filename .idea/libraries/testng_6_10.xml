@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="testng-6.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../polymorphismSample/testng-6.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../polymorphismSample/selenium-server-standalone-3.12.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../QA3MishTestNG/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../QA3MishTestNG/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../QA3MishTestNG/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../QA3MishTestNG/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
